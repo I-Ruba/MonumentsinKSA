@@ -100,7 +100,7 @@ nav {
     clip-path: circle(2000px at 90% -20%);
     -webkit-clip-path: circle(2000px at 90% -20%);
     pointer-events: all;
-    margin-top: 5vh;
+    margin-top: 6vh;
 }
 
 .nav-links li {
